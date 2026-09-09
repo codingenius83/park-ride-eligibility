@@ -1,3 +1,9 @@
+"""
+Name: Caleb
+Period: pm
+theme park admission $ Ride eligibility system
+"""
+
 #welcomings to the script
 
 print('\nsup guest')
